@@ -1,0 +1,5 @@
+h34-dotage55-stg.hasura-app.io:
+  ssl:
+    conf:
+      account: h34-dotage55-stghasura40
+    type: LetsEncrypt
